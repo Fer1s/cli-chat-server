@@ -13,18 +13,27 @@ $ npm install
 ## Start
 
 Development
+
 ```bash
 $ npm run start
 ```
+
+<br />
+
 Development with nodemon
+
 ```bash
 $ npm run start:dev
 ```
-Using pm2
-```
-pm2 start index.js --name cli-chat-server
-```
 
+<br />
+
+Using pm2
+
+```
+$ pm2 start index.js --name cli-chat-server
+```
 
 ## Author
-feris 
+
+feris
